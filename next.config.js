@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   image: {
-    domains: ['https://*.vercel.app'],
+    domains: ['https://*.netlify.app', 'https://*.vercel.app'],
 },
 }
 
