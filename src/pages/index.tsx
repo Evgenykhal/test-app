@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
       <div className='h-screen w-full flex flex-col items-center justify-center gap-8'>
         <h1 className='font-bold uppercase text-xl hover:text-red-800 hover:text-7xl'>Hi there!</h1>
-        <Image className='' src={'/../public/laptop-image.jpg'} alt='lap' height={300} width={300}/>
+        <Image className='' src='/../public/laptop-image.jpg' alt='lap' height={300} width={300}/>
       </div>
       
     </>
